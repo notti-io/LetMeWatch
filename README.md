@@ -19,7 +19,7 @@ LetMeWatch is a browser extension that offers end-to-end movie/TV show streaming
 To manually install LetMeWatch, do the following:
 1. Download [LetMeWatch_Build.zip](https://drive.google.com/file/d/1TXNoLgcCsr_TCYbHtFjLXJ6cnpKnXmRX/view?usp=drive_link)
 2. Unzip the file.
-3. Go to (chrome://extensions)[chrome://extensions] and enable Developer mode in the top right.
+3. Go to [chrome://extensions](chrome://extensions) and enable Developer mode in the top right.
 4. Select Load unpacked in the top left, and select the LetMeWatch_Build folder that was unzipped.
 
 After installing LetMeWatch, press Alt+M (Windows) or Opt+M (Mac) to discover a supreme viewing experience!
