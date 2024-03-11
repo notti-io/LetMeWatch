@@ -1,5 +1,5 @@
 # LetMeWatch
-## Update: LetMeWatch was removed from the Chrome Web Store a while ago (for obvious reasons). As such, I've updated the [installation section](#installation) with instructions on how to manually add LetMeWatch to your Chrome browser. It's pretty easy and takes about two minutes to do.
+**Update: LetMeWatch was removed from the Chrome Web Store a while ago (for obvious reasons). As such, I've updated the [installation section](#installation) with instructions on how to manually add LetMeWatch to your Chrome browser.**
 
 ### A seamless watching experience contained in a browser extension
 
