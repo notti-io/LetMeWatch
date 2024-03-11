@@ -1,4 +1,6 @@
 # LetMeWatch
+## Update: LetMeWatch was removed from the Chrome Web Store a while ago (for obvious reasons). As such, I've updated the [installation section](#installation) with instructions on how to manually add LetMeWatch to your Chrome browser. It's pretty easy and takes about two minutes to do.
+
 ### A seamless watching experience contained in a browser extension
 
 LetMeWatch is a browser extension that offers end-to-end movie/TV show streaming, maximizing ease of use and convenience by sifting through a multitude of free streaming services and locating the highest-caliber video that is available. You can learn more at our website: [letmewatch.app](https://letmewatch.app).
@@ -12,7 +14,13 @@ LetMeWatch is a browser extension that offers end-to-end movie/TV show streaming
 
 ## Installation
 
-LetMeWatch is currently available for all Chromium browsers (Chrome, Edge, Opera, etc.) at the official [Chrome webstore](https://chrome.google.com/webstore/detail/letmewatch/lalbidfnmdmafompodhbmppbpakipaah), as well as for Mozilla Firefox at the [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/). 
+~~LetMeWatch is currently available for all Chromium browsers (Chrome, Edge, Opera, etc.) at the official [Chrome webstore](https://chrome.google.com/webstore/detail/letmewatch/lalbidfnmdmafompodhbmppbpakipaah), as well as for Mozilla Firefox at the [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/).~~
+
+To manually install LetMeWatch, do the following:
+1. Download [LetMeWatch_Build.zip](https://drive.google.com/file/d/1TXNoLgcCsr_TCYbHtFjLXJ6cnpKnXmRX/view?usp=drive_link)
+2. Unzip the file.
+3. Go to (chrome://extensions)[chrome://extensions] and enable Developer mode in the top right.
+4. Select Load unpacked in the top left, and select the LetMeWatch_Build folder that was unzipped.
 
 After installing LetMeWatch, press Alt+M (Windows) or Opt+M (Mac) to discover a supreme viewing experience!
 
